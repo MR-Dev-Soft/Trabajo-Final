@@ -51,7 +51,7 @@ La aplicación web cumple con los siguientes requisitos:
 - Adaptabilidad a dispositivos móviles y escritorio.
 
 ## Cómo Ejecutar el Proyecto
-1. Clonar el repositorio: git clone https://github.com/MR-Dev-Soft/Trabajo-Final.git
+1. Clonar el repositorio: git clone https://github.com/MReyes-Soft/Trabajo-Final.git
 2. Abrir el proyecto en un editor de código.
 3. Ejecutar el archivo `index.html` en un navegador web.
 4. Para funcionalidades avanzadas, usar un servidor local (XAMPP o similar).
@@ -62,5 +62,5 @@ Proyecto completado como trabajo final del curso, con posibilidad de mejoras y a
 ## Autor
 **Miguel Reyes Sanchez**  
 Ingeniería de Software con Inteligencia Artificial  
-GitHub: https://github.com/MR-Dev-Soft
+GitHub: https://github.com/MReyes-Soft
 
